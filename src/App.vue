@@ -11,7 +11,7 @@ const count = ref(0)
 
       <h1>Learning Vue with Vite</h1>
 
-      <p class="name">Created by Jaleigh Bemis</p>
+      <<p class="name">Created by Jaleigh Bemis | Fall 2026</p>
 
       <p class="description">
         This application was created using Vue 3 and Vite.
